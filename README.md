@@ -44,6 +44,7 @@
 </p>
 <p align="center" style="margin-top:0;">
   <img src="https://img.shields.io/badge/Senior_British_Physics_Olympiad-a07cc7?style=for-the-badge&logo=taichi-graphics&logoColor=white" alt="Senior British Physics Olympiad" />
+  <img src="https://img.shields.io/badge/CanSat-fb8b1e?style=for-the-badge&logo=rocket&logoColor=white" alt="Senior British Physics Olympiad" />
 </p>
 
 <h2 align="center">Links</h2>
