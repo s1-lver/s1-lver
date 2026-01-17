@@ -28,8 +28,8 @@
 <h2 align="center">Current Project</h2>
 
 <p align="center">
-  <a href="https://github.com/s1-lver/rispa" style="font-weight:bold; text-decoration:none;">
-    <img src="https://img.shields.io/badge/Currently_Working_On-rispa-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="rispa" />
+  <a href="https://github.com/s1-lver/budget-tracker" style="font-weight:bold; text-decoration:none;">
+    <img src="https://img.shields.io/badge/Currently_Working_On-budget tracker-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="budget tracker" />
   </a>
 </p>
 <p align="center">
